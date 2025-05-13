@@ -1,6 +1,0 @@
-url=http://automationexercise.com
-validEmail=testuser@example.com
-validPassword=password123
-existingEmail=existing@example.com
-invalidEmail=invalid@example.com
-invalidPassword=wrongpass
