@@ -1,4 +1,4 @@
-This project contains automated tests for the Automation Exercise website.
+Automation Exercise
 
 ## Requirements
 - Java JDK 8+
